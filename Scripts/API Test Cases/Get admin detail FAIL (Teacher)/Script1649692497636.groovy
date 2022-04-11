@@ -1,0 +1,42 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.testobject.ResponseObject as ResponseObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import groovy.json.JsonSlurper as JsonSlurper
+import org.assertj.core.api.Assertions as Assertions
+
+'Create body'
+def stringBody = '{ "username": "nva123","password": "nva123"}'
+
+'Login'
+ResponseObject postResponse = WS.sendRequest(findTestObject('PostRequest/PostRequest - Jwt', [('url') : GlobalVariable.auth_url, ('body') : stringBody]))
+
+'Assert the status code'
+Assertions.assertThat(postResponse.getStatusCode()).isEqualTo(200)
+
+'Extract token'
+JsonSlurper parser = new JsonSlurper()
+
+def afterParsing = parser.parseText(postResponse.getResponseBodyContent())
+
+'Send request'
+ResponseObject getResponse = WS.sendRequest(findTestObject('GetRequest/GetAdminDetail - Jwt', [('jwt_token') : afterParsing.token, ('id'): 4]))
+
+'Assert on the status code'
+Assertions.assertThat(getResponse.getStatusCode()).isEqualTo(403)
+

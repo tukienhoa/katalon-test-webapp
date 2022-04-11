@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lock user account FAIL 404 (Admin)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>841ed76e-cbc9-4ce6-92ce-89bb3695fc08</testCaseGuid>
+</TestCaseEntity>

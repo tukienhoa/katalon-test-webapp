@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get admin detail FAIL 404 (Admin)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a39ac4c8-1b9b-4b9e-a145-69a763a93353</testCaseGuid>
+</TestCaseEntity>
