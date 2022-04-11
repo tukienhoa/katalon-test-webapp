@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Profile Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf95b945-56ec-49f1-a0bd-a203c1a7fe9f</testCaseGuid>
+   <variable>
+      <defaultValue>'nva123'</defaultValue>
+      <description></description>
+      <id>8c2d8adc-b78f-4be2-add2-c4fa4015c8be</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'nva123'</defaultValue>
+      <description></description>
+      <id>dc1fe054-0ac8-42a2-9162-f3cd701e0bc6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nguyen Van A'</defaultValue>
+      <description></description>
+      <id>85fda028-86a2-4126-a65e-c132db74feb7</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+</TestCaseEntity>

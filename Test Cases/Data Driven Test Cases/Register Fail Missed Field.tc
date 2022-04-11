@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register Fail Missed Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be771838-62e0-4cdc-9142-d8522a19ed44</testCaseGuid>
+   <variable>
+      <defaultValue>'Vinh Tu Kien'</defaultValue>
+      <description></description>
+      <id>4322ad2d-e1f5-4088-8e46-a64820d45b30</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>942fadc5-e872-44d3-8031-f4cbd383754d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'vinhtu0171@gmail.com'</defaultValue>
+      <description></description>
+      <id>ac6dac6e-f47a-4cdc-a26e-e16f47a35b02</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>41cbc55f-c287-43ab-a2a3-6c69f9dff081</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

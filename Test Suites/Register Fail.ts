@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Register Fail</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0e74d88e-a725-4539-aa4b-39a515c87314</testSuiteGuid>
+   <testCaseLink>
+      <guid>e8cf01db-84ff-44d0-a3e6-640fa76c6d3b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data Driven Test Cases/Register Fail</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d1563d43-65f4-4ce1-9172-3ce135593c97</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Register Fail</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>d1563d43-65f4-4ce1-9172-3ce135593c97</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>fullname</value>
+         <variableId>e8d17efe-af01-4365-9654-379aa4c4311d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d1563d43-65f4-4ce1-9172-3ce135593c97</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>a260b9a5-add2-4d85-ae87-0d8e55a8e95b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d1563d43-65f4-4ce1-9172-3ce135593c97</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>d4f42481-29c6-4b37-ba48-b4fc05cf5084</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d1563d43-65f4-4ce1-9172-3ce135593c97</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>0a73531f-fce6-4c82-8cfc-744ca0c637ee</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

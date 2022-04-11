@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Register Fail Missed Field</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>63e72a92-5f20-4938-8b08-ab946f061b62</testSuiteGuid>
+   <testCaseLink>
+      <guid>9bca5498-f744-4d98-80f7-1f132c54ab95</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data Driven Test Cases/Register Fail Missed Field</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>72a0cd42-4d7f-4da5-88dc-e21cfbd4b038</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Register Fail Missed Field</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>72a0cd42-4d7f-4da5-88dc-e21cfbd4b038</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>fullname</value>
+         <variableId>4322ad2d-e1f5-4088-8e46-a64820d45b30</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>72a0cd42-4d7f-4da5-88dc-e21cfbd4b038</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>942fadc5-e872-44d3-8031-f4cbd383754d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>72a0cd42-4d7f-4da5-88dc-e21cfbd4b038</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>ac6dac6e-f47a-4cdc-a26e-e16f47a35b02</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>72a0cd42-4d7f-4da5-88dc-e21cfbd4b038</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>41cbc55f-c287-43ab-a2a3-6c69f9dff081</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Profile Fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03484d57-14dd-4c15-bae5-3fdddcca1e97</testCaseGuid>
+   <variable>
+      <defaultValue>'nva123'</defaultValue>
+      <description></description>
+      <id>dd7db2d4-24c8-4583-8cd2-d046ec3425fc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'nva123'</defaultValue>
+      <description></description>
+      <id>ab1592b2-6630-4404-90dc-61fc0b74925d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'vinhtu0171@gmail.com'</defaultValue>
+      <description></description>
+      <id>934f8cc6-9523-45eb-87e2-7d510dc7f8b2</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

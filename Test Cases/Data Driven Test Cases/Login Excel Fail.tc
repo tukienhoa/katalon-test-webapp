@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Excel Fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b72365da-4a7d-41e7-8cdf-ce27fe55993d</testCaseGuid>
+   <variable>
+      <defaultValue>'nva123'</defaultValue>
+      <description></description>
+      <id>860b91c3-4bb8-4d27-8f80-6d911008d5b9</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>c9c94a60-ab9d-42e6-a188-882639cd3f32</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Excel Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>009bced1-7493-4300-9732-b49e4cf41de9</testCaseGuid>
+   <variable>
+      <defaultValue>'nva123'</defaultValue>
+      <description></description>
+      <id>5979c8b3-3260-455e-84d2-795a8864cd13</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'nva123'</defaultValue>
+      <description></description>
+      <id>afc43dc5-3439-4f73-8a77-81eac06f5e59</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register Fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01fb2e9f-9ae1-4b86-9a31-9a15adb9f2ec</testCaseGuid>
+   <variable>
+      <defaultValue>'Vinh Tu Kien'</defaultValue>
+      <description></description>
+      <id>e8d17efe-af01-4365-9654-379aa4c4311d</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'kvinhtu'</defaultValue>
+      <description></description>
+      <id>a260b9a5-add2-4d85-ae87-0d8e55a8e95b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>d4f42481-29c6-4b37-ba48-b4fc05cf5084</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'vinhtu0171@gmail.com'</defaultValue>
+      <description></description>
+      <id>0a73531f-fce6-4c82-8cfc-744ca0c637ee</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
