@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Update Profile Fail</name>
+   <name>Join Class Success</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,39 +10,39 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>40e6caf9-9b14-48ba-86d1-bd95b9c651ab</testSuiteGuid>
+   <testSuiteGuid>ef208546-1023-4b81-ac93-dd427a2c1371</testSuiteGuid>
    <testCaseLink>
-      <guid>411114cd-9726-4dd0-991a-3bf0af1117ff</guid>
+      <guid>8997019d-680d-449f-9e99-3c298366db2a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Data Driven Test Cases/Update Profile Fail</testCaseId>
+      <testCaseId>Test Cases/Data Driven Test Cases/Join Class Success</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>a01bcb67-b10b-42c1-943e-01633c07f298</id>
+         <id>d1e37046-2365-4357-92fe-4fcf2b675cf8</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Update Profile Fail</testDataId>
+         <testDataId>Data Files/Join Class Success</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>a01bcb67-b10b-42c1-943e-01633c07f298</testDataLinkId>
+         <testDataLinkId>d1e37046-2365-4357-92fe-4fcf2b675cf8</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>username</value>
-         <variableId>dd7db2d4-24c8-4583-8cd2-d046ec3425fc</variableId>
+         <variableId>5dc369d8-4bc3-425b-b9dd-6820349dd10d</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a01bcb67-b10b-42c1-943e-01633c07f298</testDataLinkId>
+         <testDataLinkId>d1e37046-2365-4357-92fe-4fcf2b675cf8</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>password</value>
-         <variableId>ab1592b2-6630-4404-90dc-61fc0b74925d</variableId>
+         <variableId>5065bda3-ff0f-4ef5-b57e-59978ccdfb39</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a01bcb67-b10b-42c1-943e-01633c07f298</testDataLinkId>
+         <testDataLinkId>d1e37046-2365-4357-92fe-4fcf2b675cf8</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>email</value>
-         <variableId>934f8cc6-9523-45eb-87e2-7d510dc7f8b2</variableId>
+         <value>classcode</value>
+         <variableId>799f8414-c715-4b9b-b136-654bd3c15346</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

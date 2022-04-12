@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Update Profile Fail</name>
+   <name>Join Class Fail</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>03484d57-14dd-4c15-bae5-3fdddcca1e97</testCaseGuid>
+   <testCaseGuid>4bdb503f-74f4-4b03-a7dd-c72a59b7026c</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>dd7db2d4-24c8-4583-8cd2-d046ec3425fc</variableId>
+      <variableId>b9a425fc-8683-480b-ac41-a138ed6c6106</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>ab1592b2-6630-4404-90dc-61fc0b74925d</variableId>
+      <variableId>9270f86e-12cf-4b06-8c1d-70415d1a4b47</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>934f8cc6-9523-45eb-87e2-7d510dc7f8b2</variableId>
+      <variableId>959fb7b9-4245-4542-b943-f43c22d18782</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'nva123'</defaultValue>
       <description></description>
-      <id>dd7db2d4-24c8-4583-8cd2-d046ec3425fc</id>
+      <id>b9a425fc-8683-480b-ac41-a138ed6c6106</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
       <defaultValue>'nva123'</defaultValue>
       <description></description>
-      <id>ab1592b2-6630-4404-90dc-61fc0b74925d</id>
+      <id>9270f86e-12cf-4b06-8c1d-70415d1a4b47</id>
       <masked>false</masked>
       <name>password</name>
    </variable>
    <variable>
-      <defaultValue>'vinhtu0171@gmail.com'</defaultValue>
+      <defaultValue>'abc'</defaultValue>
       <description></description>
-      <id>934f8cc6-9523-45eb-87e2-7d510dc7f8b2</id>
+      <id>959fb7b9-4245-4542-b943-f43c22d18782</id>
       <masked>false</masked>
-      <name>email</name>
+      <name>class_code</name>
    </variable>
 </TestCaseEntity>

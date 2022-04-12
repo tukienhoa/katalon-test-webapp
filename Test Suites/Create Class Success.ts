@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Create Class Success</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>638bc56a-a65a-42fd-9fc8-ade1d13722ba</testSuiteGuid>
+   <testCaseLink>
+      <guid>57cb8955-0c8b-4cc1-bac2-2c1e2b040493</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data Driven Test Cases/Create Class Success</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5c8de104-731d-439f-92bc-951c30a970d3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Create Class Success</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5c8de104-731d-439f-92bc-951c30a970d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>e2405d1d-f390-48aa-a45e-f93ffe0f3364</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5c8de104-731d-439f-92bc-951c30a970d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>c5d4532a-becd-4333-af4d-901c556553a4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5c8de104-731d-439f-92bc-951c30a970d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>classname</value>
+         <variableId>de18c796-0bbf-4734-9dfa-4620dd6ab90d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5c8de104-731d-439f-92bc-951c30a970d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>section</value>
+         <variableId>3e63bf71-3921-43dd-8da6-35165b6fc767</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5c8de104-731d-439f-92bc-951c30a970d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>subject</value>
+         <variableId>3099cf67-66cc-40c7-96e3-9f24f4afa8e6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5c8de104-731d-439f-92bc-951c30a970d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>room</value>
+         <variableId>2ba37a4c-2c13-41f2-b346-c6996fc5b951</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
