@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login Success</name>
+   <name>Admin edits student ID</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ace75ca5-1a6e-4c0e-a7fa-fc3a93d2f6c2</testCaseGuid>
+   <testCaseGuid>128352f5-9ab1-4caa-819c-d9c71aaf2266</testCaseGuid>
 </TestCaseEntity>

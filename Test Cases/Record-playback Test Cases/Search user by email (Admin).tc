@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search user by email (Admin)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9e37123-9c5c-4472-8dbc-5cbde519e47c</testCaseGuid>
+</TestCaseEntity>

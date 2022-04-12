@@ -21,9 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/log-in')
 
-WebUI.setText(findTestObject('Object Repository/Page_React App/input_Username_usn'), 'nva123')
+WebUI.setText(findTestObject('Object Repository/SearchAdminByName/Page_React App/input_Username_usn'), 'admin1')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_React App/input_Password_pwd'), 'xpzznRTPq3g=')
+WebUI.setEncryptedText(findTestObject('Object Repository/SearchAdminByName/Page_React App/input_Password_pwd'), 'vRRrCeg9Qho=')
 
-WebUI.click(findTestObject('Object Repository/Page_React App/button_Log In'))
+WebUI.click(findTestObject('Object Repository/SearchAdminByName/Page_React App/button_Log In'))
+
+WebUI.click(findTestObject('Object Repository/SearchAdminByName/Page_React App/a_Manage Admin Accounts'))
+
+WebUI.setText(findTestObject('Object Repository/SearchAdminByName/Page_React App/input_Admin Account_form-control'), 'nguyen van')
 

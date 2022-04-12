@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unlock user account FAIL 404 (Admin)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e31a3eec-731b-4426-8924-dc4969db8947</testCaseGuid>
+</TestCaseEntity>
