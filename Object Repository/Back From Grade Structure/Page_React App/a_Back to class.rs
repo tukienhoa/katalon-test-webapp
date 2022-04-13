@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Back to class</name>
+   <tag></tag>
+   <elementGuidId>1e53e961-cab1-4b63-b2e7-42f88cd83f69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/button/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.grade-back-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e47ed646-b13c-4152-9978-b4923bc6a644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grade-back-btn</value>
+      <webElementGuid>6b98fdcd-b0d4-43e6-afd3-1b98c2df6d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/classes/1</value>
+      <webElementGuid>3bfe78d5-7ff0-44e3-ab9d-bfc80f67ed66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to class</value>
+      <webElementGuid>8fcb05eb-cc02-46c5-b3ad-432f87e0641e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;section&quot;]/button[@class=&quot;btn btn-success&quot;]/a[@class=&quot;grade-back-btn&quot;]</value>
+      <webElementGuid>b4a76a17-a004-4fa0-addc-f0d922e2a6df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/button/a</value>
+      <webElementGuid>f22e115d-7a0e-43f0-99d5-818d1e4244ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Back to class')]</value>
+      <webElementGuid>56e4e36b-2095-4dc0-8cb0-717e5d98fc22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vinh Tu Kien'])[1]/following::a[1]</value>
+      <webElementGuid>af410cc2-6f26-4de5-a4b0-bdb8906735a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::a[1]</value>
+      <webElementGuid>48932ee0-2765-44ad-9083-73c90550ee0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to class']/parent::*</value>
+      <webElementGuid>bb52e247-7787-4216-9950-8c8b0e7576e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/classes/1')]</value>
+      <webElementGuid>d9be937c-579d-4c5b-ba12-4b39653cab62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/a</value>
+      <webElementGuid>60178c4a-1056-49e6-afdc-89e9442c92bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/classes/1' and (text() = 'Back to class' or . = 'Back to class')]</value>
+      <webElementGuid>de457c97-3e80-4639-a11d-fe0de486fcd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

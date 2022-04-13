@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Renew Password</name>
+   <tag></tag>
+   <elementGuidId>4cf2f9f2-0358-4b6a-af33-8dff22f0f418</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='renew-pwd']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#renew-pwd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7fa189d3-7c4a-43e4-9417-56e02023b551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>renew-pwd</value>
+      <webElementGuid>e7645c6a-bbb1-4b62-93ea-82b41017e25c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Renew Password</value>
+      <webElementGuid>5ec4a230-1bde-4199-83ab-804b496684a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;renew-pwd&quot;)</value>
+      <webElementGuid>7828739c-75a0-4f6e-9f4b-fd03dfb7d981</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='renew-pwd']</value>
+      <webElementGuid>adc5a88a-99d7-4e21-9f5f-2695df2c8063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='log-in']/div[2]/a/p</value>
+      <webElementGuid>83c4d83b-7d38-43e1-a641-7179ebb6dd71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::p[1]</value>
+      <webElementGuid>c4faa6be-4621-4fd3-9542-fd890d4b0bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't have an account?')])[1]/following::p[2]</value>
+      <webElementGuid>30b9f63e-e8b3-4f88-942d-7cb09fc08394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Renew Password']/parent::*</value>
+      <webElementGuid>a17c0ba0-5231-4694-a969-d2c3d2629b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/p</value>
+      <webElementGuid>6a27a15b-5f61-4ea8-8dec-cbb7ca6262ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'renew-pwd' and (text() = 'Renew Password' or . = 'Renew Password')]</value>
+      <webElementGuid>fcbc572b-9fe3-4fb4-82ab-0b34eea55a3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

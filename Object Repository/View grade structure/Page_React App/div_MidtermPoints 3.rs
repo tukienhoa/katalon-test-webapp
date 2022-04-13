@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MidtermPoints 3</name>
+   <tag></tag>
+   <elementGuidId>dbfa7914-fd01-40d6-ab78-3deb6c1b3d07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31a6783d-b80b-4dfd-924f-b548ccdc70d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAccordionSummary-content</value>
+      <webElementGuid>4bdbca5f-b457-4760-b4c3-df4ec2f08cb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MidtermPoints: 3</value>
+      <webElementGuid>4a000c86-810d-4908-8b37-a686b653fa40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;section&quot;]/div[3]/div[@class=&quot;assignment-item-viewonly&quot;]/div[@class=&quot;MuiPaper-root MuiAccordion-root MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiButtonBase-root MuiAccordionSummary-root&quot;]/div[@class=&quot;MuiAccordionSummary-content&quot;]</value>
+      <webElementGuid>930995b0-e8fa-4157-8ddd-dfce820f862d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div/div/div</value>
+      <webElementGuid>7b4f4115-73ee-470e-a97a-e6372490fd5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vinh Tu Kien'])[1]/following::div[26]</value>
+      <webElementGuid>ff44bda1-49e5-416e-8f20-f39e82779ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::div[28]</value>
+      <webElementGuid>eb4c46e7-e297-45e6-8a0f-e5fc23e1aa64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to class'])[1]/preceding::div[26]</value>
+      <webElementGuid>78ddff62-eb5c-4cac-8ebe-930108e4ca3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>9addff7c-e3fe-4334-9e49-3f9d200e7ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MidtermPoints: 3' or . = 'MidtermPoints: 3')]</value>
+      <webElementGuid>eb7c6e64-b2d0-4dca-a43a-8ff7e7249a42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

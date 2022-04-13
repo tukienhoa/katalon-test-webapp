@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Sort by student ID</name>
+   <tag></tag>
+   <elementGuidId>08e07663-0543-43ad-842d-7b0eda7a9e6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/table/thead/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.g-rv-sort-by-uid-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>cb2331db-00a8-4564-9505-bf21c41e30b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>g-rv-sort-by-uid-text</value>
+      <webElementGuid>8ac95ba2-cc3e-4a90-8caf-d1d44119479f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sort by student ID</value>
+      <webElementGuid>e9e06dc6-8682-4ad9-b544-0500d98532fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;g-rv-page&quot;]/table[@class=&quot;table-grades-board g-rv-table table table-bordered table-hover&quot;]/thead[@class=&quot;table-grades-board-header&quot;]/tr[@class=&quot;table-g-headers&quot;]/th[@class=&quot;g-rv-sort-by-uid-text&quot;]</value>
+      <webElementGuid>10d1d6a4-3958-4e50-9543-3a24b14e2394</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/table/thead/tr/th</value>
+      <webElementGuid>624cc52a-4f9f-4690-907d-b2312b71422d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Grades Board'])[1]/following::th[1]</value>
+      <webElementGuid>c7497063-1445-43ba-8ea6-703f47447388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyen Van A'])[1]/following::th[1]</value>
+      <webElementGuid>0c8e9f0e-666c-446a-8376-d4cc0236efbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[1]/preceding::th[5]</value>
+      <webElementGuid>6ed6f1a8-5ca2-4393-b7b1-db04c56525bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sort by student ID']/parent::*</value>
+      <webElementGuid>155568ac-5d5c-46e6-9a8d-cb5f2f7a3107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th</value>
+      <webElementGuid>c39db552-97fb-4536-a71d-95818b7de46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Sort by student ID' or . = 'Sort by student ID')]</value>
+      <webElementGuid>ec29db65-1c22-49c2-9bf3-036ce0b3ea54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

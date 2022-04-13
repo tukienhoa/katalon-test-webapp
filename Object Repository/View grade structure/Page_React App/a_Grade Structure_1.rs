@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Grade Structure_1</name>
+   <tag></tag>
+   <elementGuidId>fd012db7-f9b0-47c4-a3a1-8ce2603be23d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#classroom-grade-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>585f85dc-2d57-4bba-b077-2dc66edbd01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>classroom-grade-link</value>
+      <webElementGuid>770256b0-04fa-44ad-a9c3-e344a0c7da1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/classes/2/grade</value>
+      <webElementGuid>7cb05a89-e789-421b-9811-76017687cf55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grade Structure</value>
+      <webElementGuid>4a9cd8d4-ff5b-44db-bb1c-9843af8ae5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;classroom-grade-btns&quot;]/button[@class=&quot;classroom-grade-btn classroom-grade-structure-btn btn btn-success&quot;]/a[@id=&quot;classroom-grade-link&quot;]</value>
+      <webElementGuid>7a18914d-6c2c-4cac-b4aa-a10aeac8e47e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='classroom-grade-link']</value>
+      <webElementGuid>3c0cf3dc-74eb-4648-9fa1-c66c11e61666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/button/a</value>
+      <webElementGuid>776d1f37-bfda-43bd-9cec-c1a699cb163b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Grade Structure')]</value>
+      <webElementGuid>d7128cc3-82d6-43b4-8b8a-0ec2a9317af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Invite User'])[1]/following::a[1]</value>
+      <webElementGuid>6c47f560-fff6-4e09-bd3c-13c183539794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invitation Link'])[1]/following::a[1]</value>
+      <webElementGuid>21096e9e-e58f-4396-ae06-ead717b44207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grades'])[1]/preceding::a[1]</value>
+      <webElementGuid>eab51140-7429-44cf-bbea-0e0cd3c0fbcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyen Van A (Owner)'])[1]/preceding::a[2]</value>
+      <webElementGuid>11323935-88e3-42eb-a318-9a9dbb76031d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Grade Structure']/parent::*</value>
+      <webElementGuid>9f081fdd-5a19-4050-be6f-e3975eae1b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/classes/2/grade')]</value>
+      <webElementGuid>c5e92759-d967-4d17-9992-b3f0b0401ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/a</value>
+      <webElementGuid>1c1dff20-0c4a-45ec-a0aa-003c9eea94f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'classroom-grade-link' and @href = '/classes/2/grade' and (text() = 'Grade Structure' or . = 'Grade Structure')]</value>
+      <webElementGuid>a90452e7-c977-43bb-a6e2-e91784a35617</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
