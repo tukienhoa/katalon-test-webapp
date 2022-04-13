@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Object Repository/Page_React App/input_Password_pw
 
 WebUI.click(findTestObject('Object Repository/Page_React App/button_Log In'))
 
-WebUI.verifyElementInViewport(findTestObject('Page_React App/input_Username_usn'), 0)
+WebUI.verifyElementNotPresent(findTestObject('Page_React App/input_Username_usn'), 5)
 
 WebUI.closeBrowser()
 
